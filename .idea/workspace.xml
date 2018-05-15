@@ -32,7 +32,7 @@
         </entry>
       </file>
       <file leaf-file-name="introduction.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/1_workflow_process/introduction.md">
+        <entry file="file://$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/introduction.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="81">
@@ -45,7 +45,7 @@
         </entry>
       </file>
       <file leaf-file-name="1_what_is_workflow.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/1_workflow_process/1_what_is_workflow.md">
+        <entry file="file://$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/1_what_is_workflow.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -58,7 +58,7 @@
         </entry>
       </file>
       <file leaf-file-name="2_what_is_version_controle.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/1_workflow_process/2_what_is_version_controle.md">
+        <entry file="file://$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/2_what_is_version_controle.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -71,7 +71,7 @@
         </entry>
       </file>
       <file leaf-file-name="3_introducing_git.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/1_workflow_process/3_introducing_git.md">
+        <entry file="file://$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/3_introducing_git.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -84,7 +84,7 @@
         </entry>
       </file>
       <file leaf-file-name="4_introducing_git_hub.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/1_workflow_process/4_introducing_git_hub.md">
+        <entry file="file://$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/4_introducing_git_hub.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -97,7 +97,7 @@
         </entry>
       </file>
       <file leaf-file-name="5_git_hub_solent_workflow.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/1_workflow_process/5_git_hub_solent_workflow.md">
+        <entry file="file://$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/5_git_hub_solent_workflow.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -110,7 +110,7 @@
         </entry>
       </file>
       <file leaf-file-name="6_practical.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/1_workflow_process/6_practical.md">
+        <entry file="file://$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/6_practical.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -123,7 +123,7 @@
         </entry>
       </file>
       <file leaf-file-name="2_copy_right_licences.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/2_the_web_what_it_is_who_owns_it/2_copy_right_licences.md">
+        <entry file="file://$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/2_the_web_what_it_is_who_owns_it/2_copy_right_licences.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="216">
@@ -136,11 +136,11 @@
         </entry>
       </file>
       <file leaf-file-name="1_where_do_websites_live.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blocks/2_the_web_what_it_is_who_owns_it/1_where_do_websites_live.md">
+        <entry file="file://$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/2_the_web_what_it_is_who_owns_it/1_where_do_websites_live.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="5" column="77" lean-forward="false" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+              <first_editor relative-caret-position="270">
+                <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -227,7 +227,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="2_the_web_what_it_is_who_owns_it" />
+              <option name="myItemId" value="section2 (Web Applications)" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -245,7 +245,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1_workflow_process" />
+              <option name="myItemId" value="section1 (Core Web Technologies)" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -299,6 +299,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blocks/section1 (Core Web Technologies)" />
       <recent name="$PROJECT_DIR$/assets/block_2" />
       <recent name="$PROJECT_DIR$/assets" />
     </key>
@@ -376,16 +377,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526333145052</updated>
-      <workItem from="1526333147530" duration="13361000" />
+      <workItem from="1526333147530" duration="16833000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13361000" />
+    <option name="totallyTimeSpent" value="16833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1015" y="-1057" width="1524" height="857" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -395,7 +396,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -519,7 +520,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/1_workflow_process/introduction.md">
+    <entry file="file://$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/introduction.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="81">
@@ -530,7 +531,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/1_workflow_process/1_what_is_workflow.md">
+    <entry file="file://$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/1_what_is_workflow.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -541,7 +542,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/1_workflow_process/2_what_is_version_controle.md">
+    <entry file="file://$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/2_what_is_version_controle.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -552,7 +553,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/1_workflow_process/3_introducing_git.md">
+    <entry file="file://$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/3_introducing_git.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -563,7 +564,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/1_workflow_process/4_introducing_git_hub.md">
+    <entry file="file://$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/4_introducing_git_hub.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -574,7 +575,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/1_workflow_process/5_git_hub_solent_workflow.md">
+    <entry file="file://$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/5_git_hub_solent_workflow.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -585,7 +586,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/1_workflow_process/6_practical.md">
+    <entry file="file://$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/6_practical.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -596,7 +597,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/2_the_web_what_it_is_who_owns_it/2_copy_right_licences.md">
+    <entry file="file://$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/2_the_web_what_it_is_who_owns_it/2_copy_right_licences.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="216">
@@ -607,11 +608,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/2_the_web_what_it_is_who_owns_it/1_where_do_websites_live.md">
+    <entry file="file://$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/2_the_web_what_it_is_who_owns_it/1_where_do_websites_live.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="5" column="77" lean-forward="false" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+          <first_editor relative-caret-position="270">
+            <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             <folding />
           </first_editor>
           <second_editor />
