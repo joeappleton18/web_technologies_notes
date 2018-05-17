@@ -1,9 +1,11 @@
 # Workflow and Version Control
 
-- Workflow and version control are fundamental concepts that programmers of all levels
+- Work flow and version control are fundamental concepts that programmers of all levels
   are exposed to
   
-- This block will focus on the modern work flows that web developers used. 
+- This block will focus on modern work flow processes that as a web developer you'll rely on heavily
 
-- Practically we will be making our first version controlled website using 
+## Practical Outcomes 
+
+- We will be making our first version controlled website using 
 a professional workflow
