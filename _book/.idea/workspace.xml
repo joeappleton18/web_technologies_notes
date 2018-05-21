@@ -2,40 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="621f285c-2f56-4acf-9acd-29845a877e9e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/c9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/folder_structure.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/histogram.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/html5_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/mrdoob.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/progression.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/site_sample.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blocks/section1/1_workflow_process/3.1_git_vcs_stratergy.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blocks/section1/1_workflow_process/4_introducing_git_hub.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blocks/section1/1_workflow_process/6_practical.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/structure.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/3.1_git_vcs_stratergy.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/6_practical.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/1_what_is_workflow.md" afterPath="$PROJECT_DIR$/blocks/section1/1_workflow_process/1_what_is_workflow.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/2.1_distributed_vs_centralised_version_control.md" afterPath="$PROJECT_DIR$/blocks/section1/1_workflow_process/2.1_distributed_vs_centralised_version_control.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/2_what_is_version_controle.md" afterPath="$PROJECT_DIR$/blocks/section1/1_workflow_process/2_what_is_version_controle.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/3_introducing_git.md" afterPath="$PROJECT_DIR$/blocks/section1/1_workflow_process/3_introducing_git.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/4_introducing_git_hub.md" afterPath="$PROJECT_DIR$/blocks/section1/1_workflow_process/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/5_git_hub_solent_workflow.md" afterPath="$PROJECT_DIR$/blocks/section1/1_workflow_process/5_git_hub_solent_workflow.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/1_workflow_process/introduction.md" afterPath="$PROJECT_DIR$/blocks/section1/1_workflow_process/introduction.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/2_the_web_what_it_is_who_owns_it/1_where_do_websites_live.md" afterPath="$PROJECT_DIR$/blocks/section1/2_the_web_what_it_is_who_owns_it/1_where_do_websites_live.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blocks/section1 (Core Web Technologies)/2_the_web_what_it_is_who_owns_it/2_copy_right_licences.md" afterPath="$PROJECT_DIR$/blocks/section1/2_the_web_what_it_is_who_owns_it/2_copy_right_licences.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/notes_test.iml" afterPath="$PROJECT_DIR$/.idea/notes_test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SUMMARY.md" afterPath="$PROJECT_DIR$/SUMMARY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/.idea/workspace.xml" afterPath="$PROJECT_DIR$/_book/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/index.html" afterPath="$PROJECT_DIR$/_book/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/literature.bib" afterPath="$PROJECT_DIR$/_book/literature.bib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/search_index.json" afterPath="$PROJECT_DIR$/_book/search_index.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/book.json" afterPath="$PROJECT_DIR$/book.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figures.md" afterPath="$PROJECT_DIR$/figures.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/literature.bib" afterPath="$PROJECT_DIR$/literature.bib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-bibtex-citations-and-references/package.json" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-bibtex-citations-and-references/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blocks/section1/1_workflow_process/2.1_distributed_vs_centralised_version_control.md" afterPath="$PROJECT_DIR$/blocks/section1/1_workflow_process/2.1_distributed_vs_centralised_version_control.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -76,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -89,11 +58,47 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="2_copy_right_licences.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blocks/section1/2_the_web_what_it_is_who_owns_it/2_copy_right_licences.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="333">
+                <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.1_distributed_vs_centralised_version_control.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_book/blocks/section1/1_workflow_process/2.1_distributed_vs_centralised_version_control.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.1_distributed_vs_centralised_version_control.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blocks/section1/1_workflow_process/2.1_distributed_vs_centralised_version_control.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="243">
+                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="7" column="63" lean-forward="true" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+              <caret line="7" column="63" lean-forward="false" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -145,6 +150,7 @@
         <option value="$PROJECT_DIR$/blocks/section1/1_workflow_process/6_practical.md" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/blocks/section1/1_workflow_process/2.1_distributed_vs_centralised_version_control.md" />
       </list>
     </option>
   </component>
@@ -189,6 +195,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="notes_test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="notes_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="notes_test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blocks" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -297,16 +317,16 @@
       <workItem from="1526489867759" duration="528000" />
       <workItem from="1526492316247" duration="8164000" />
       <workItem from="1526627709234" duration="1074000" />
-      <workItem from="1526924448866" duration="5797000" />
+      <workItem from="1526924448866" duration="6361000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32519000" />
+    <option name="totallyTimeSpent" value="33083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="801" y="-1057" width="1576" height="905" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3217005" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -315,7 +335,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26229507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26229507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -339,14 +359,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/literature.bib">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="46" column="21" lean-forward="false" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -618,16 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/section1/2_the_web_what_it_is_who_owns_it/2_copy_right_licences.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="216">
-            <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blocks/section1/2_the_web_what_it_is_who_owns_it/1_where_do_websites_live.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -653,16 +655,6 @@
     <entry file="file://$PROJECT_DIR$/assets/block_2/remote_workspace.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/section1/1_workflow_process/2.1_distributed_vs_centralised_version_control.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="81">
-            <caret line="3" column="76" lean-forward="false" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
-          </first_editor>
-          <second_editor />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blocks/section1/1_workflow_process/3.1_git_vcs_stratergy.md">
@@ -803,7 +795,7 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="7" column="63" lean-forward="true" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+          <caret line="7" column="63" lean-forward="false" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
           <folding />
         </state>
       </provider>
@@ -813,6 +805,36 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="54">
             <caret line="2" column="389" lean-forward="false" selection-start-line="2" selection-start-column="389" selection-end-line="2" selection-end-column="389" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/section1/2_the_web_what_it_is_who_owns_it/2_copy_right_licences.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="333">
+            <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_book/blocks/section1/1_workflow_process/2.1_distributed_vs_centralised_version_control.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/section1/1_workflow_process/2.1_distributed_vs_centralised_version_control.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="243">
+            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
