@@ -1,6 +1,6 @@
 # Welcome Web Technologies CDA404
 Welcome to Web Technologies, delivered by me Joe Appleton! As the name suggests this unit will be introducing you to the technologies used to power web-based applications. 
-Globally the internet has become intertwined in our lives, we of course deeply familiar with it. However, as an application developer, I take a different view and after this course, I hope you will too. I see the internet as a platform for delivering sophisticated applications. Furthermore, on a philosophical level, I see software applications as a means to solve problems.  Herein lies is why the internet from a developers perspective is such an exciting prospect. We get to solve problems (write applications) and distribute the global platform that is the internet.
+Globally the internet has become intertwined in our lives. I see the internet as a platform for delivering sophisticated applications. Furthermore, on a philosophical level, I see software applications as a means to solve problems.  Herein lies is why the internet from a developers perspective is such an exciting prospect. We get to solve problems (write applications) and distribute to the global platform that is the internet.
   
   
 # Teacher and Teaching Focus 
