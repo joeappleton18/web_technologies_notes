@@ -1,0 +1,346 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>What is Version Control · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.2">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../../../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../../../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="2.1_distributed_vs_centralised_version_control.html" />
+    
+    
+    <link rel="prev" href="introduction.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../../../">
+            
+                <a href="../../../">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="introduction.html">
+            
+                <a href="introduction.html">
+            
+                    
+                    Block 1 Workflow and Process
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter active" data-level="1.2.1" data-path="2_what_is_version_controle.html">
+            
+                <a href="2_what_is_version_controle.html">
+            
+                    
+                    What is Version Control
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.2" data-path="2.1_distributed_vs_centralised_version_control.html">
+            
+                <a href="2.1_distributed_vs_centralised_version_control.html">
+            
+                    
+                    Distributed vs Centralised Version Control
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3" data-path="3_introducing_git.html">
+            
+                <a href="3_introducing_git.html">
+            
+                    
+                    Introducing GIT
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.4" data-path="3.1_git_vcs_stratergy.html">
+            
+                <a href="3.1_git_vcs_stratergy.html">
+            
+                    
+                    GIT VCS Strategy
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.5" data-path="4_introducing_git_hub.html">
+            
+                <a href="4_introducing_git_hub.html">
+            
+                    
+                    Introducing GIT HUB
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.6" data-path="6_practical.html">
+            
+                <a href="6_practical.html">
+            
+                    
+                    Practical
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="../../.." >What is Version Control</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="version-control">Version Control</h1>
+<ul>
+<li>Version control is simply a workflow that involves keeping historic versions of our work. In fact you may well have already implemented your own version control system by keeping multiple versions of your work in different folders (see Figure 2)</li>
+</ul>
+<p><img src="../../../assets/block_2/version_control.png" alt=""></p>
+<p><cite> Figure 2 - A Manual Version Control Workflow </cite></p>
+<ul>
+<li>The above method is very ineffective! Firstly we don&apos;t know exactly what has changed in each version. Secondly we may accidentally write to the wrong folder or forget entirely to make a backup</li>
+</ul>
+<ul>
+<li>Version Control Systems (VCS) automate the process of controlling versions of your work. The first SCS was proposed developed by Marc Rochkind in 1975 while working at Bell Labs (Rochkind, 1975)</li>
+</ul>
+<p><img src="../../../assets/block_2/changes.png" alt=""></p>
+<p><cite> Figure 3 - Changes Graph </cite></p>
+<ul>
+<li><p>Rockind proposed that rather than keeping full duplicates of the project we should only keep copies of the changes. These changes are linked together in a graph/tree like structure. Firstly, this significantly saves on space (which was a  premium at the time) as we only store our changes and note complete versions of our work. Secondly having the changes in a graph allow easy navigation of the graph allowing us to roll our work back and forward</p>
+</li>
+<li><p>One of the first widely used VCS was RCS <strong>(insert citation)</strong>. Developers would <strong>check files into the RCS</strong> to put them under version control. When a developer wanted to work on a given file that specific file would be individually <strong>checked out</strong> to work on. Changes are logged in a graph like structure proposed by Rockind.  </p>
+</li>
+</ul>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="introduction.html" class="navigation navigation-prev " aria-label="Previous page: Block 1 Workflow and Process">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="2.1_distributed_vs_centralised_version_control.html" class="navigation navigation-next " aria-label="Next page: Distributed vs Centralised Version Control">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"What is Version Control","level":"1.2.1","depth":2,"next":{"title":"Distributed vs Centralised Version Control","level":"1.2.2","depth":2,"path":"blocks/section1/1_workflow_process/2.1_distributed_vs_centralised_version_control.md","ref":"blocks/section1/1_workflow_process/2.1_distributed_vs_centralised_version_control.md","articles":[]},"previous":{"title":"Block 1 Workflow and Process","level":"1.2","depth":1,"path":"blocks/section1/1_workflow_process/introduction.md","ref":"blocks/section1/1_workflow_process/introduction.md","articles":[{"title":"What is Version Control","level":"1.2.1","depth":2,"path":"blocks/section1/1_workflow_process/2_what_is_version_controle.md","ref":"blocks/section1/1_workflow_process/2_what_is_version_controle.md","articles":[]},{"title":"Distributed vs Centralised Version Control","level":"1.2.2","depth":2,"path":"blocks/section1/1_workflow_process/2.1_distributed_vs_centralised_version_control.md","ref":"blocks/section1/1_workflow_process/2.1_distributed_vs_centralised_version_control.md","articles":[]},{"title":"Introducing GIT","level":"1.2.3","depth":2,"path":"blocks/section1/1_workflow_process/3_introducing_git.md","ref":"blocks/section1/1_workflow_process/3_introducing_git.md","articles":[]},{"title":"GIT VCS Strategy","level":"1.2.4","depth":2,"path":"blocks/section1/1_workflow_process/3.1_git_vcs_stratergy.md","ref":"blocks/section1/1_workflow_process/3.1_git_vcs_stratergy.md","articles":[]},{"title":"Introducing GIT HUB","level":"1.2.5","depth":2,"path":"blocks/section1/1_workflow_process/4_introducing_git_hub.md","ref":"blocks/section1/1_workflow_process/4_introducing_git_hub.md","articles":[]},{"title":"Practical","level":"1.2.6","depth":2,"path":"blocks/section1/1_workflow_process/6_practical.md","ref":"blocks/section1/1_workflow_process/6_practical.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["bibtex-citations-and-references","youtube"],"pluginsConfig":{"bibtex-citations-and-references":{},"youtube":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"blocks/section1/1_workflow_process/2_what_is_version_controle.md","mtime":"2018-05-21T18:26:33.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2018-05-21T19:45:05.262Z"},"basePath":"../../..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../../../gitbook/gitbook.js"></script>
+    <script src="../../../gitbook/theme.js"></script>
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+

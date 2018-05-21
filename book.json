@@ -1,5 +1,6 @@
 {
   "plugins": [
-    "bibtex-citations-and-references"
+    "bibtex-citations-and-references",
+    "youtube"
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "notes_test",
+  "version": "1.0.0",
+  "description": "Welcome to Web Technologies, delivered by me Joe Appleton! As the name suggests this unit will be introducing you to the technologies used to power web-based applications.  Globally the internet has become intertwined in our lives, we of course deeply familiar with it. However, as an application developer, I take a different view and after this course, I hope you will too. I see the internet as a platform for delivering sophisticated applications. Furthermore, on a philosophical level, I see software applications as a means to solve problems.  Herein lies is why the internet from a developers perspective is such an exciting prospect. We get to solve problems (write applications) and distribute the global platform that is the internet.",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-youtube": "^1.1.0",
+    "gitbook-plugin-bibtex-citations-and-references": "^0.10.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy" : "gitbook build && firebase deploy && git add -A && git commit -m 'bot commit' && git push origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeappleton18/web_technologies_notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeappleton18/web_technologies_notes/issues"
+  },
+  "homepage": "https://github.com/joeappleton18/web_technologies_notes#readme"
+}

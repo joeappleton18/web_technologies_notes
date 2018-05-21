@@ -1,9 +1,9 @@
 # Introduction GIT
 
-<center>
+
 ![](../../../assets/block_2/git.png)
 
-</center>
+
 
 - GIT is a widely used free decentralised VCS (DVCS)
 
