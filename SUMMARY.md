@@ -1,8 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
+* [Git and GitHub Cheat Sheet](git_git_hub_cheat_sheet.md)
     
 * [Block 1 Workflow and Process](blocks/section1/1_workflow_process/introduction.md)
+   - [What is WorkFlow](blocks/section1/1_workflow_process/1_what_is_workflow.md)
    - [What is Version Control](blocks/section1/1_workflow_process/2_what_is_version_controle.md)
    - [Distributed vs Centralised Version Control](blocks/section1/1_workflow_process/2.1_distributed_vs_centralised_version_control.md)
    - [Introducing GIT](blocks/section1/1_workflow_process/3_introducing_git.md)

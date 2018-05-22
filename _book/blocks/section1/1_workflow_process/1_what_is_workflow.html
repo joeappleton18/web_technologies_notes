@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Distributed vs Centralised Version Control · GitBook</title>
+        <title>What is WorkFlow · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.2">
@@ -57,10 +57,10 @@
     <link rel="shortcut icon" href="../../../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="3_introducing_git.html" />
+    <link rel="next" href="2_what_is_version_controle.html" />
     
     
-    <link rel="prev" href="2_what_is_version_controle.html" />
+    <link rel="prev" href="introduction.html" />
     
 
     </head>
@@ -129,7 +129,7 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.3.1" data-path="1_what_is_workflow.html">
+        <li class="chapter active" data-level="1.3.1" data-path="1_what_is_workflow.html">
             
                 <a href="1_what_is_workflow.html">
             
@@ -155,7 +155,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.3.3" data-path="2.1_distributed_vs_centralised_version_control.html">
+        <li class="chapter " data-level="1.3.3" data-path="2.1_distributed_vs_centralised_version_control.html">
             
                 <a href="2.1_distributed_vs_centralised_version_control.html">
             
@@ -255,7 +255,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="../../.." >Distributed vs Centralised Version Control</a>
+        <a href="../../.." >What is WorkFlow</a>
     </h1>
 </div>
 
@@ -270,26 +270,36 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="distributed-vs-centralised-version-control">Distributed Vs Centralised Version Control</h1>
+                                <h1 id="web-technologies-workflow">Web Technologies Workflow</h1>
 <ul>
-<li><p>So far we&apos;ve only looked at VCSs that keep a revision history on the developers local computer. Perhaps you&apos;ve already considered some the glaring issues! </p>
-<ul>
-<li><strong>What happens if your local computer goes down?</strong> </li>
-<li><strong>How do we collaborated with other developers on the same project?</strong></li>
-</ul>
+<li><p>You can think of a workflow as a systematic approach to doing repetitive tasks</p>
+</li>
+<li><p>The term &apos;workflow&apos; has roots in 1920s manufacturing and the need for orchestrating efficient ways to get repetitive tasks done</p>
+</li>
+<li><p>Programmers have adopted this idea of workflow and the term is commonly used. Whilst programming is a highly creative undertaking we can not ignore the fact that there are many repetitive tasks </p>
+</li>
+<li><p>If these tasks are approached systematically they can easily be automated</p>
 </li>
 </ul>
-<h2 id="centralised-version-control">Centralised version control</h2>
-<p> <img src="../../../assets/block_2/centralised.png" alt=""></p>
-<p> <cite>Figure 4 - Centralised Version Control  </cite></p>
+<center>
+![](../../../assets/block_2/workflow.png)
+
+
+<cite> Figure 1 - Web Technologies Recommended Workflow </cite>
+
+</center>
+
+
 <ul>
-<li>The first proposed solution to the above problem was to place the VCS on a centralised server (see Figure 4). Developers would check out individual files and work on them locally. After making changes they would check the file back into the remote server. While this configuration allows collaboration it still has the major downside that the entire project is kept in a single location. A single location of course means exposure to a single point of failure.  </li>
+<li><p>Figure 1 is a diagrammatic representation of the high level workflow we&apos;ll use on this course </p>
+<ul>
+<li>Work is created locally </li>
+<li><a href="https://validator.w3.org/ validator" target="_blank">HTML is validated using the W3C</a></li>
+<li><a href="https://github.com/" target="_blank">At the end of each session the work is pushed up to GITHub</a></li>
 </ul>
-<h2 id="distributed-version-control">Distributed version control</h2>
-<p> <img src="../../../assets/block_2/distributed.png" alt=""></p>
-<p> <cite>Figure 5 - Distributed Version Control  </cite></p>
-<ul>
-<li>A distributed version control system such as GIT solves the aforementioned problems. In such systems developers don&apos;t just check out single files or the latest snap shot of the project rather they fully mirror the project and all of its revisions. Should the server or any other computer die, then anyone who&apos;s working on the project has a full history. </li>
+</li>
+<li><p>I am sure at this stage many of the above terms may well appear somewhat alien and that&apos;s ok. I just want you to understand the idea of workflow and that Figure 1 is an abstract representation of the the given workflow for this unit.  In due time the more granular details will become clear</p>
+</li>
 </ul>
 
                                 
@@ -318,12 +328,12 @@
 
             
                 
-                <a href="2_what_is_version_controle.html" class="navigation navigation-prev " aria-label="Previous page: What is Version Control">
+                <a href="introduction.html" class="navigation navigation-prev " aria-label="Previous page: Block 1 Workflow and Process">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="3_introducing_git.html" class="navigation navigation-next " aria-label="Next page: Introducing GIT">
+                <a href="2_what_is_version_controle.html" class="navigation navigation-next " aria-label="Next page: What is Version Control">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -334,7 +344,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Distributed vs Centralised Version Control","level":"1.3.3","depth":2,"next":{"title":"Introducing GIT","level":"1.3.4","depth":2,"path":"blocks/section1/1_workflow_process/3_introducing_git.md","ref":"blocks/section1/1_workflow_process/3_introducing_git.md","articles":[]},"previous":{"title":"What is Version Control","level":"1.3.2","depth":2,"path":"blocks/section1/1_workflow_process/2_what_is_version_controle.md","ref":"blocks/section1/1_workflow_process/2_what_is_version_controle.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["bibtex-citations-and-references","youtube"],"pluginsConfig":{"bibtex-citations-and-references":{},"youtube":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"blocks/section1/1_workflow_process/2.1_distributed_vs_centralised_version_control.md","mtime":"2018-05-21T20:46:45.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2018-05-22T10:51:15.779Z"},"basePath":"../../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"What is WorkFlow","level":"1.3.1","depth":2,"next":{"title":"What is Version Control","level":"1.3.2","depth":2,"path":"blocks/section1/1_workflow_process/2_what_is_version_controle.md","ref":"blocks/section1/1_workflow_process/2_what_is_version_controle.md","articles":[]},"previous":{"title":"Block 1 Workflow and Process","level":"1.3","depth":1,"path":"blocks/section1/1_workflow_process/introduction.md","ref":"blocks/section1/1_workflow_process/introduction.md","articles":[{"title":"What is WorkFlow","level":"1.3.1","depth":2,"path":"blocks/section1/1_workflow_process/1_what_is_workflow.md","ref":"blocks/section1/1_workflow_process/1_what_is_workflow.md","articles":[]},{"title":"What is Version Control","level":"1.3.2","depth":2,"path":"blocks/section1/1_workflow_process/2_what_is_version_controle.md","ref":"blocks/section1/1_workflow_process/2_what_is_version_controle.md","articles":[]},{"title":"Distributed vs Centralised Version Control","level":"1.3.3","depth":2,"path":"blocks/section1/1_workflow_process/2.1_distributed_vs_centralised_version_control.md","ref":"blocks/section1/1_workflow_process/2.1_distributed_vs_centralised_version_control.md","articles":[]},{"title":"Introducing GIT","level":"1.3.4","depth":2,"path":"blocks/section1/1_workflow_process/3_introducing_git.md","ref":"blocks/section1/1_workflow_process/3_introducing_git.md","articles":[]},{"title":"GIT VCS Strategy","level":"1.3.5","depth":2,"path":"blocks/section1/1_workflow_process/3.1_git_vcs_stratergy.md","ref":"blocks/section1/1_workflow_process/3.1_git_vcs_stratergy.md","articles":[]},{"title":"Introducing GIT HUB","level":"1.3.6","depth":2,"path":"blocks/section1/1_workflow_process/4_introducing_git_hub.md","ref":"blocks/section1/1_workflow_process/4_introducing_git_hub.md","articles":[]},{"title":"Practical","level":"1.3.7","depth":2,"path":"blocks/section1/1_workflow_process/6_practical.md","ref":"blocks/section1/1_workflow_process/6_practical.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["bibtex-citations-and-references","youtube"],"pluginsConfig":{"bibtex-citations-and-references":{},"youtube":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"blocks/section1/1_workflow_process/1_what_is_workflow.md","mtime":"2018-05-22T06:36:59.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2018-05-22T10:51:15.779Z"},"basePath":"../../..","book":{"language":""}});
         });
     </script>
 </div>
