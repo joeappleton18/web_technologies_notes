@@ -9,13 +9,11 @@
 
 - If these tasks are approached systematically they can easily be automated
 
-<center>
+
 ![](../../../assets/block_2/workflow.png)
 
 
 <cite> Figure 1 - Web Technologies Recommended Workflow </cite>
-
-</center>
 
 
 - Figure 1 is a diagrammatic representation of the high level workflow we'll use on this course 

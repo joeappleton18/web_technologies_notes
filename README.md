@@ -1,3 +1,4 @@
+
 # Welcome Web Technologies CDA404
 Welcome to Web Technologies, delivered by me Joe Appleton! As the name suggests this unit will be introducing you to the technologies used to power web-based applications. 
 Globally the internet has become intertwined in our lives. I see the internet as a platform for delivering sophisticated applications. Furthermore, on a philosophical level, I see software applications as a means to solve problems.  Herein lies is why the internet from a developers perspective is such an exciting prospect. We get to solve problems (write applications) and distribute to the global platform that is the internet.
@@ -57,6 +58,12 @@ Ruparelia, N. B. (2010). The History of Version Control. https://doi.org/10.1145
 ### If you are interested in the theories behind my teaching style
 
 Bandura, A., & Walters, R. H. (1977). Social learning theory (Vol. 1). Prentice-hall Englewood Cliffs, NJ.
+
+##Block 2
+
+### If you are interested in learning a bit more about media ownership rights 
+
+[https://www.smashingmagazine.com/2011/06/understanding-copyright-and-licenses/]
 
 
 # Full Reference List
