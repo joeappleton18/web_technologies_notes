@@ -31,6 +31,7 @@
     * [Breakpoints](blocks/section1/4_supporting_mobile_design/3_breakpoints.md)
     * [Testing Responsive Websites](blocks/section1/4_supporting_mobile_design/4_testing_responsive_websites.md)
     * [Laying Out Responsive Websites](blocks/section1/4_supporting_mobile_design/5_laying_out_responsive_websites.md)
+    *  [Practical](blocks/section1/4_supporting_mobile_design/practical.md)
      
 * [Block 5 Understanding JavaScript](blocks/section2/session1/understanding_java_script.md)
   * [Comments](blocks/section2/session1/comments.md)
