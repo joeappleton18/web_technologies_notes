@@ -8,7 +8,7 @@ This week we're introducing the concept of cascading styles sheets (CSS).
 
 The first part of the practical introduces you to the basics of laying out websites. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RiYeMvHyOgE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BB0R9CL4DyQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 Make sure your HTML is valid using the W3C validator. [https://validator.w3.org/](https://validator.w3.org/).  
@@ -27,7 +27,7 @@ Make sure your HTML is valid using the W3C validator. [https://validator.w3.org/
 
 - Using the notes below, you are going to work out how to lay out the  Foody landing page. 
 
-- <a href="assets/web_projects.zip" download>Download the detailed mock up </a>
+- <a href="https://github.com/joeappleton18/web_technologies_notes/raw/master/blocks/section1/2_the_web_what_it_is_who_owns_it/assets/web_project.zip" download>Download the detailed mock up </a>
 
 - Using external CSS implement the mock up to the best of your ability. 
 
