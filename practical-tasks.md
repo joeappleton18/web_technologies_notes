@@ -9,4 +9,5 @@
  
 - [3) Making a website responsive](blocks/section1/4_supporting_mobile_design/practical.md)
 
+
 - [4) Solent Stores](blocks/section2/session8/exercise.md)
